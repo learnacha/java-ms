@@ -1,4 +1,4 @@
-# Day 14: Low-Level Requirements
+# Week 07: Low-Level Requirements
 
 - [ ] Requirement 1
 - [ ] Requirement 2
